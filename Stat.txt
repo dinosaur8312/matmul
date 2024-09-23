@@ -1,0 +1,4 @@
+Setup time 0.164709
+Matmat time 0.018709
+GFLOPS 0.0912378
+SPEED  4.87668
